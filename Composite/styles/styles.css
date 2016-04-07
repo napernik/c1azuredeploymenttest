@@ -2525,7 +2525,7 @@ ui|explorerdecks {
   width: 250px;
   height: 100px;
   margin: 20px auto 30px auto;
-  background: url("../images/logo.png?cacheversion=1459942809532") no-repeat center center;
+  background: url("../images/logo.png?cacheversion=1459991475932") no-repeat center center;
 }
 .brand-main {
   display: block;
@@ -4118,7 +4118,7 @@ ui|dock.start ui|docktabs {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: url("../images/top-page-cover-bg.jpg?cacheversion=1459942809548");
+  background-image: url("../images/top-page-cover-bg.jpg?cacheversion=1459991475948");
 }
 .splash-bg:after {
   content: "";
